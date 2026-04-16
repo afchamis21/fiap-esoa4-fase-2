@@ -1,0 +1,240 @@
+,id,actual_category,predicted_category,confidence_score,location_name,inference_time_ms,created_at
+0,186,Oídio,Oídio,95,Fazenda Sol Nascente,1630,2026-04-15 22:24:55.022590
+1,647,Saudável,Saudável,98,Fazenda Sol Nascente,381,2026-04-15 22:24:55.406734
+2,374,Oídio,Oídio,91,Rancho Águas Claras,404,2026-04-15 22:24:55.815709
+3,704,Míldio,Míldio,99,Fazenda Sol Nascente,310,2026-04-15 22:24:56.129728
+4,715,Ferrugem,Ferrugem,88,Fazenda Sol Nascente,326,2026-04-15 22:24:56.460628
+5,749,Oídio,Oídio,77,Estância Ouro Branco,324,2026-04-15 22:24:56.787085
+6,92,Saudável,Saudável,87,Fazenda Sol Nascente,312,2026-04-15 22:24:57.102401
+7,812,Mancha Alvo,Mancha Alvo,71,Estância Ouro Branco,312,2026-04-15 22:24:57.417695
+8,439,Podridão Radicular,Podridão Radicular,99,Sítio Bela Vista,307,2026-04-15 22:24:57.728322
+9,910,Oídio,Oídio,99,Fazenda Sol Nascente,309,2026-04-15 22:24:58.041175
+10,352,Saudável,Saudável,98,Rancho Águas Claras,304,2026-04-15 22:24:58.349165
+11,142,Saudável,Saudável,99,Fazenda Sol Nascente,321,2026-04-15 22:24:58.675990
+12,945,Ferrugem,Ferrugem,94,Fazenda Sol Nascente,304,2026-04-15 22:24:58.982692
+13,22,Mancha Alvo,Mancha Alvo,71,Fazenda Sol Nascente,321,2026-04-15 22:24:59.308540
+14,594,Saudável,Saudável,99,Sítio Bela Vista,377,2026-04-15 22:24:59.689385
+15,934,Ferrugem,Ferrugem,50,Sítio Bela Vista,489,2026-04-15 22:25:00.186409
+16,416,Podridão Radicular,Podridão Radicular,99,Rancho Águas Claras,342,2026-04-15 22:25:00.535022
+17,420,Saudável,Saudável,96,Agropecuária Vale Verde,320,2026-04-15 22:25:00.858597
+18,386,Saudável,Saudável,99,Estância Ouro Branco,381,2026-04-15 22:25:01.242987
+19,925,Míldio,Míldio,76,Rancho Águas Claras,314,2026-04-15 22:25:01.561481
+20,60,Saudável,Saudável,93,Fazenda Sol Nascente,313,2026-04-15 22:25:01.877249
+21,996,Saudável,Saudável,85,Fazenda Sol Nascente,416,2026-04-15 22:25:02.296265
+22,120,Ferrugem,Ferrugem,99,Fazenda Sol Nascente,397,2026-04-15 22:25:02.696608
+23,297,Saudável,Saudável,50,Rancho Águas Claras,313,2026-04-15 22:25:03.013053
+24,462,Saudável,Saudável,98,Fazenda Sol Nascente,324,2026-04-15 22:25:03.340915
+25,737,Saudável,Saudável,99,Sítio Bela Vista,312,2026-04-15 22:25:03.655545
+26,276,Podridão Radicular,Podridão Radicular,99,Estância Ouro Branco,335,2026-04-15 22:25:03.993746
+27,833,Saudável,Saudável,98,Fazenda Sol Nascente,379,2026-04-15 22:25:04.376293
+28,382,Mancha Alvo,Mancha Alvo,58,Sítio Bela Vista,343,2026-04-15 22:25:04.722418
+29,424,Oídio,Oídio,84,Rancho Águas Claras,323,2026-04-15 22:25:05.051431
+30,576,Saudável,Saudável,77,Fazenda Sol Nascente,324,2026-04-15 22:25:05.379722
+31,742,Míldio,Míldio,74,Rancho Águas Claras,311,2026-04-15 22:25:05.693794
+32,271,Saudável,Saudável,96,Estância Ouro Branco,315,2026-04-15 22:25:06.012304
+33,732,Saudável,Saudável,99,Estância Ouro Branco,342,2026-04-15 22:25:06.357374
+34,694,Saudável,Saudável,98,Sítio Bela Vista,345,2026-04-15 22:25:06.706392
+35,678,Saudável,Saudável,52,Sítio Bela Vista,335,2026-04-15 22:25:07.045070
+36,664,Podridão Radicular,Podridão Radicular,64,Estância Ouro Branco,307,2026-04-15 22:25:07.355404
+37,24,Ferrugem,Ferrugem,99,Fazenda Sol Nascente,333,2026-04-15 22:25:07.691917
+38,72,Míldio,Míldio,86,Agropecuária Vale Verde,311,2026-04-15 22:25:08.006019
+39,816,Saudável,Saudável,93,Sítio Bela Vista,324,2026-04-15 22:25:08.336059
+40,153,Míldio,Míldio,53,Agropecuária Vale Verde,307,2026-04-15 22:25:08.646833
+41,663,Saudável,Saudável,90,Estância Ouro Branco,315,2026-04-15 22:25:08.965289
+42,628,Oídio,Oídio,88,Fazenda Sol Nascente,316,2026-04-15 22:25:09.287583
+43,50,Míldio,Míldio,97,Rancho Águas Claras,322,2026-04-15 22:25:09.612472
+44,506,Oídio,Oídio,78,Fazenda Sol Nascente,321,2026-04-15 22:25:09.937511
+45,231,Saudável,Saudável,96,Sítio Bela Vista,324,2026-04-15 22:25:10.266730
+46,228,Saudável,Saudável,99,Agropecuária Vale Verde,477,2026-04-15 22:25:10.747538
+47,103,Míldio,Míldio,99,Fazenda Sol Nascente,308,2026-04-15 22:25:11.058967
+48,517,Saudável,Saudável,83,Fazenda Sol Nascente,332,2026-04-15 22:25:11.393972
+49,955,Míldio,Míldio,94,Fazenda Sol Nascente,316,2026-04-15 22:25:11.713153
+50,310,Oídio,Oídio,99,Estância Ouro Branco,410,2026-04-15 22:25:12.125901
+51,702,Ferrugem,Ferrugem,98,Rancho Águas Claras,484,2026-04-15 22:25:12.614455
+52,601,Míldio,Míldio,99,Sítio Bela Vista,334,2026-04-15 22:25:12.953101
+53,791,Míldio,Míldio,99,Fazenda Sol Nascente,338,2026-04-15 22:25:13.294592
+54,11,Míldio,Míldio,98,Fazenda Sol Nascente,309,2026-04-15 22:25:13.607280
+55,723,Oídio,Oídio,78,Agropecuária Vale Verde,307,2026-04-15 22:25:13.917188
+56,858,Míldio,Míldio,59,Agropecuária Vale Verde,356,2026-04-15 22:25:14.277095
+57,652,Saudável,Saudável,81,Rancho Águas Claras,335,2026-04-15 22:25:14.614911
+58,2,Saudável,Saudável,78,Sítio Bela Vista,313,2026-04-15 22:25:14.931471
+59,78,Saudável,Saudável,99,Rancho Águas Claras,342,2026-04-15 22:25:15.277092
+60,862,Míldio,Míldio,99,Rancho Águas Claras,311,2026-04-15 22:25:15.591411
+61,531,Saudável,Saudável,67,Sítio Bela Vista,315,2026-04-15 22:25:15.909720
+62,967,Saudável,Saudável,98,Fazenda Sol Nascente,306,2026-04-15 22:25:16.224957
+63,891,Mancha Alvo,Mancha Alvo,98,Agropecuária Vale Verde,315,2026-04-15 22:25:16.543047
+64,417,Mancha Alvo,Mancha Alvo,99,Agropecuária Vale Verde,318,2026-04-15 22:25:16.864636
+65,587,Míldio,Míldio,99,Fazenda Sol Nascente,314,2026-04-15 22:25:17.181507
+66,50,Mancha Alvo,Mancha Alvo,98,Agropecuária Vale Verde,351,2026-04-15 22:25:17.539383
+67,216,Oídio,Oídio,94,Sítio Bela Vista,330,2026-04-15 22:25:17.872919
+68,63,Ferrugem,Ferrugem,99,Sítio Bela Vista,305,2026-04-15 22:25:18.181202
+69,457,Míldio,Míldio,83,Fazenda Sol Nascente,314,2026-04-15 22:25:18.498471
+70,772,Saudável,Saudável,96,Rancho Águas Claras,323,2026-04-15 22:25:18.824844
+71,49,Saudável,Saudável,74,Fazenda Sol Nascente,308,2026-04-15 22:25:19.138709
+72,930,Saudável,Saudável,99,Fazenda Sol Nascente,367,2026-04-15 22:25:19.511524
+73,543,Ferrugem,Ferrugem,99,Fazenda Sol Nascente,319,2026-04-15 22:25:19.833068
+74,122,Saudável,Saudável,90,Agropecuária Vale Verde,333,2026-04-15 22:25:20.172324
+75,129,Saudável,Saudável,60,Sítio Bela Vista,411,2026-04-15 22:25:20.588477
+76,558,Ferrugem,Ferrugem,96,Sítio Bela Vista,311,2026-04-15 22:25:20.905491
+77,586,Oídio,Oídio,99,Sítio Bela Vista,324,2026-04-15 22:25:21.233154
+78,433,Míldio,Míldio,99,Estância Ouro Branco,387,2026-04-15 22:25:21.623563
+79,801,Saudável,Saudável,86,Estância Ouro Branco,322,2026-04-15 22:25:21.948559
+80,268,Ferrugem,Ferrugem,99,Rancho Águas Claras,330,2026-04-15 22:25:22.281630
+81,577,Saudável,Saudável,79,Fazenda Sol Nascente,502,2026-04-15 22:25:22.880315
+82,777,Saudável,Saudável,98,Agropecuária Vale Verde,453,2026-04-15 22:25:23.340038
+83,225,Saudável,Saudável,98,Agropecuária Vale Verde,405,2026-04-15 22:25:23.748537
+84,82,Míldio,Míldio,91,Agropecuária Vale Verde,473,2026-04-15 22:25:24.227215
+85,404,Ferrugem,Ferrugem,97,Estância Ouro Branco,343,2026-04-15 22:25:24.574766
+86,909,Míldio,Míldio,99,Sítio Bela Vista,354,2026-04-15 22:25:24.932760
+87,896,Ferrugem,Ferrugem,96,Rancho Águas Claras,344,2026-04-15 22:25:25.280955
+88,796,Saudável,Saudável,99,Sítio Bela Vista,319,2026-04-15 22:25:25.603491
+89,165,Oídio,Oídio,99,Estância Ouro Branco,343,2026-04-15 22:25:25.950248
+90,424,Ferrugem,Ferrugem,84,Rancho Águas Claras,344,2026-04-15 22:25:26.298099
+91,877,Ferrugem,Ferrugem,55,Estância Ouro Branco,313,2026-04-15 22:25:26.614207
+92,821,Saudável,Saudável,67,Fazenda Sol Nascente,313,2026-04-15 22:25:26.930609
+93,321,Míldio,Míldio,91,Agropecuária Vale Verde,326,2026-04-15 22:25:27.261116
+94,201,Míldio,Míldio,78,Rancho Águas Claras,302,2026-04-15 22:25:27.566572
+95,928,Míldio,Míldio,99,Rancho Águas Claras,318,2026-04-15 22:25:27.888917
+96,79,Saudável,Saudável,97,Sítio Bela Vista,390,2026-04-15 22:25:28.282793
+97,645,Saudável,Saudável,99,Agropecuária Vale Verde,531,2026-04-15 22:25:28.819190
+98,349,Saudável,Saudável,88,Estância Ouro Branco,413,2026-04-15 22:25:29.237803
+99,248,Ferrugem,Ferrugem,78,Fazenda Sol Nascente,365,2026-04-15 22:25:29.606257
+100,886,Mancha Alvo,Mancha Alvo,99,Fazenda Sol Nascente,317,2026-04-15 22:25:29.926627
+101,238,Ferrugem,Ferrugem,76,Fazenda Sol Nascente,328,2026-04-15 22:25:30.258247
+102,848,Saudável,Saudável,99,Sítio Bela Vista,385,2026-04-15 22:25:30.647650
+103,782,Oídio,Oídio,99,Fazenda Sol Nascente,418,2026-04-15 22:25:31.069271
+104,23,Oídio,Oídio,92,Fazenda Sol Nascente,321,2026-04-15 22:25:31.396118
+105,696,Saudável,Saudável,62,Fazenda Sol Nascente,302,2026-04-15 22:25:31.701177
+106,278,Ferrugem,Ferrugem,99,Sítio Bela Vista,388,2026-04-15 22:25:32.092067
+107,785,Míldio,Míldio,98,Fazenda Sol Nascente,429,2026-04-15 22:25:32.524710
+108,583,Saudável,Saudável,82,Estância Ouro Branco,431,2026-04-15 22:25:32.958692
+109,30,Oídio,Oídio,84,Agropecuária Vale Verde,559,2026-04-15 22:25:33.523463
+110,807,Saudável,Saudável,74,Sítio Bela Vista,420,2026-04-15 22:25:33.946679
+111,993,Saudável,Saudável,99,Rancho Águas Claras,398,2026-04-15 22:25:34.347860
+112,298,Míldio,Míldio,99,Rancho Águas Claras,341,2026-04-15 22:25:34.694681
+113,233,Ferrugem,Ferrugem,69,Estância Ouro Branco,340,2026-04-15 22:25:35.040952
+114,564,Saudável,Saudável,99,Fazenda Sol Nascente,316,2026-04-15 22:25:35.362324
+115,920,Podridão Radicular,Podridão Radicular,74,Fazenda Sol Nascente,316,2026-04-15 22:25:35.682097
+116,544,Ferrugem,Ferrugem,66,Rancho Águas Claras,322,2026-04-15 22:25:36.007330
+117,818,Míldio,Míldio,99,Estância Ouro Branco,327,2026-04-15 22:25:36.337568
+118,220,Saudável,Saudável,58,Agropecuária Vale Verde,302,2026-04-15 22:25:36.644757
+119,388,Saudável,Saudável,97,Fazenda Sol Nascente,329,2026-04-15 22:25:36.978590
+120,573,Míldio,Míldio,99,Estância Ouro Branco,449,2026-04-15 22:25:37.433360
+121,841,Míldio,Míldio,99,Rancho Águas Claras,312,2026-04-15 22:25:37.749002
+122,748,Saudável,Saudável,98,Fazenda Sol Nascente,320,2026-04-15 22:25:38.072434
+123,744,Ferrugem,Ferrugem,95,Rancho Águas Claras,319,2026-04-15 22:25:38.396022
+124,997,Saudável,Saudável,99,Fazenda Sol Nascente,315,2026-04-15 22:25:38.714700
+125,793,Saudável,Saudável,52,Fazenda Sol Nascente,315,2026-04-15 22:25:39.033169
+126,485,Oídio,Oídio,69,Fazenda Sol Nascente,322,2026-04-15 22:25:39.358171
+127,588,Oídio,Oídio,98,Estância Ouro Branco,476,2026-04-15 22:25:39.837156
+128,864,Mancha Alvo,Mancha Alvo,98,Fazenda Sol Nascente,347,2026-04-15 22:25:40.188035
+129,645,Mancha Alvo,Mancha Alvo,89,Sítio Bela Vista,324,2026-04-15 22:25:40.515354
+130,752,Mancha Alvo,Mancha Alvo,60,Rancho Águas Claras,329,2026-04-15 22:25:40.847891
+131,325,Saudável,Saudável,99,Estância Ouro Branco,340,2026-04-15 22:25:41.191055
+132,698,Oídio,Oídio,88,Sítio Bela Vista,337,2026-04-15 22:25:41.531850
+133,248,Oídio,Oídio,92,Estância Ouro Branco,330,2026-04-15 22:25:41.865346
+134,886,Ferrugem,Ferrugem,98,Sítio Bela Vista,320,2026-04-15 22:25:42.188066
+135,316,Ferrugem,Ferrugem,99,Fazenda Sol Nascente,310,2026-04-15 22:25:42.501575
+136,141,Mancha Alvo,Mancha Alvo,96,Rancho Águas Claras,311,2026-04-15 22:25:42.816340
+137,861,Saudável,Saudável,99,Estância Ouro Branco,369,2026-04-15 22:25:43.188436
+138,395,Oídio,Oídio,95,Fazenda Sol Nascente,325,2026-04-15 22:25:43.517447
+139,566,Mancha Alvo,Mancha Alvo,99,Agropecuária Vale Verde,403,2026-04-15 22:25:43.923490
+140,817,Míldio,Míldio,99,Estância Ouro Branco,470,2026-04-15 22:25:44.397007
+141,487,Míldio,Míldio,99,Estância Ouro Branco,418,2026-04-15 22:25:44.823336
+142,197,Saudável,Saudável,93,Rancho Águas Claras,505,2026-04-15 22:25:45.332431
+143,720,Podridão Radicular,Podridão Radicular,99,Sítio Bela Vista,472,2026-04-15 22:25:45.807615
+144,223,Ferrugem,Ferrugem,97,Fazenda Sol Nascente,365,2026-04-15 22:25:46.175924
+145,520,Mancha Alvo,Mancha Alvo,99,Sítio Bela Vista,319,2026-04-15 22:25:46.497328
+146,756,Ferrugem,Ferrugem,95,Fazenda Sol Nascente,320,2026-04-15 22:25:46.826267
+147,227,Oídio,Oídio,78,Fazenda Sol Nascente,345,2026-04-15 22:25:47.174838
+148,854,Podridão Radicular,Podridão Radicular,99,Fazenda Sol Nascente,338,2026-04-15 22:25:47.515671
+149,124,Oídio,Oídio,99,Fazenda Sol Nascente,313,2026-04-15 22:25:47.831336
+150,809,Míldio,Míldio,97,Fazenda Sol Nascente,329,2026-04-15 22:25:48.163743
+151,446,Ferrugem,Ferrugem,99,Agropecuária Vale Verde,325,2026-04-15 22:25:48.492377
+152,107,Saudável,Saudável,91,Rancho Águas Claras,315,2026-04-15 22:25:48.810286
+153,66,Saudável,Saudável,83,Agropecuária Vale Verde,323,2026-04-15 22:25:49.139370
+154,58,Saudável,Saudável,96,Rancho Águas Claras,477,2026-04-15 22:25:49.621212
+155,882,Saudável,Saudável,96,Estância Ouro Branco,308,2026-04-15 22:25:49.933697
+156,242,Saudável,Saudável,99,Sítio Bela Vista,332,2026-04-15 22:25:50.270224
+157,593,Saudável,Saudável,99,Sítio Bela Vista,329,2026-04-15 22:25:50.604268
+158,847,Ferrugem,Ferrugem,99,Fazenda Sol Nascente,395,2026-04-15 22:25:51.007278
+159,480,Mancha Alvo,Mancha Alvo,99,Fazenda Sol Nascente,324,2026-04-15 22:25:51.334251
+160,771,Oídio,Oídio,99,Rancho Águas Claras,305,2026-04-15 22:25:51.642544
+161,628,Saudável,Saudável,90,Estância Ouro Branco,336,2026-04-15 22:25:51.981534
+162,37,Saudável,Saudável,99,Estância Ouro Branco,324,2026-04-15 22:25:52.308479
+163,23,Oídio,Oídio,99,Fazenda Sol Nascente,328,2026-04-15 22:25:52.640263
+164,278,Mancha Alvo,Mancha Alvo,99,Sítio Bela Vista,321,2026-04-15 22:25:52.964580
+165,148,Podridão Radicular,Podridão Radicular,99,Fazenda Sol Nascente,320,2026-04-15 22:25:53.290094
+166,147,Saudável,Saudável,62,Estância Ouro Branco,306,2026-04-15 22:25:53.601904
+167,528,Saudável,Saudável,91,Fazenda Sol Nascente,349,2026-04-15 22:25:53.961557
+168,901,Saudável,Saudável,75,Fazenda Sol Nascente,358,2026-04-15 22:25:54.323528
+169,150,Ferrugem,Ferrugem,51,Fazenda Sol Nascente,343,2026-04-15 22:25:54.669960
+170,136,Míldio,Míldio,77,Fazenda Sol Nascente,325,2026-04-15 22:25:54.998170
+171,982,Saudável,Saudável,50,Estância Ouro Branco,312,2026-04-15 22:25:55.317203
+172,677,Saudável,Saudável,98,Estância Ouro Branco,325,2026-04-15 22:25:55.645534
+173,978,Ferrugem,Ferrugem,99,Estância Ouro Branco,317,2026-04-15 22:25:55.970057
+174,746,Míldio,Míldio,99,Estância Ouro Branco,386,2026-04-15 22:25:56.359806
+175,972,Podridão Radicular,Podridão Radicular,55,Estância Ouro Branco,401,2026-04-15 22:25:56.764752
+176,442,Saudável,Saudável,99,Estância Ouro Branco,330,2026-04-15 22:25:57.101784
+177,456,Saudável,Saudável,90,Rancho Águas Claras,310,2026-04-15 22:25:57.416445
+178,638,Ferrugem,Ferrugem,91,Rancho Águas Claras,321,2026-04-15 22:25:57.741375
+179,170,Ferrugem,Ferrugem,87,Agropecuária Vale Verde,324,2026-04-15 22:25:58.068192
+180,720,Saudável,Saudável,99,Fazenda Sol Nascente,318,2026-04-15 22:25:58.391389
+181,138,Saudável,Saudável,99,Estância Ouro Branco,308,2026-04-15 22:25:58.703553
+182,696,Saudável,Saudável,97,Estância Ouro Branco,312,2026-04-15 22:25:59.018469
+183,369,Saudável,Saudável,99,Agropecuária Vale Verde,305,2026-04-15 22:25:59.327444
+184,545,Saudável,Saudável,77,Fazenda Sol Nascente,328,2026-04-15 22:25:59.659276
+185,268,Podridão Radicular,Podridão Radicular,96,Rancho Águas Claras,315,2026-04-15 22:25:59.978947
+186,382,Míldio,Míldio,99,Estância Ouro Branco,321,2026-04-15 22:26:00.305277
+187,956,Saudável,Saudável,56,Rancho Águas Claras,320,2026-04-15 22:26:00.629634
+188,495,Mancha Alvo,Mancha Alvo,88,Estância Ouro Branco,310,2026-04-15 22:26:00.942069
+189,14,Podridão Radicular,Podridão Radicular,99,Sítio Bela Vista,334,2026-04-15 22:26:01.278656
+190,909,Saudável,Saudável,96,Fazenda Sol Nascente,344,2026-04-15 22:26:01.625873
+191,468,Saudável,Saudável,99,Rancho Águas Claras,331,2026-04-15 22:26:01.960879
+192,117,Ferrugem,Ferrugem,85,Rancho Águas Claras,327,2026-04-15 22:26:02.290903
+193,43,Ferrugem,Ferrugem,90,Rancho Águas Claras,313,2026-04-15 22:26:02.607085
+194,773,Saudável,Saudável,90,Fazenda Sol Nascente,306,2026-04-15 22:26:02.917454
+195,569,Ferrugem,Ferrugem,54,Fazenda Sol Nascente,315,2026-04-15 22:26:03.236661
+196,568,Mancha Alvo,Mancha Alvo,75,Rancho Águas Claras,444,2026-04-15 22:26:03.684324
+197,595,Oídio,Oídio,99,Rancho Águas Claras,310,2026-04-15 22:26:03.998176
+198,353,Saudável,Saudável,98,Fazenda Sol Nascente,451,2026-04-15 22:26:04.452212
+199,649,Saudável,Saudável,99,Fazenda Sol Nascente,331,2026-04-15 22:26:04.787438
+200,376,Saudável,Saudável,99,Agropecuária Vale Verde,322,2026-04-15 22:26:05.112952
+201,484,Saudável,Saudável,99,Agropecuária Vale Verde,304,2026-04-15 22:26:05.421701
+202,2,Mancha Alvo,Mancha Alvo,88,Rancho Águas Claras,329,2026-04-15 22:26:05.760706
+203,903,Míldio,Míldio,86,Fazenda Sol Nascente,359,2026-04-15 22:26:06.125752
+204,716,Saudável,Saudável,99,Estância Ouro Branco,324,2026-04-15 22:26:06.453680
+205,238,Saudável,Saudável,77,Rancho Águas Claras,316,2026-04-15 22:26:06.776232
+206,251,Saudável,Saudável,52,Fazenda Sol Nascente,322,2026-04-15 22:26:07.102529
+207,805,Saudável,Saudável,99,Fazenda Sol Nascente,364,2026-04-15 22:26:07.470624
+208,846,Saudável,Saudável,99,Estância Ouro Branco,318,2026-04-15 22:26:07.792769
+209,783,Oídio,Oídio,85,Sítio Bela Vista,328,2026-04-15 22:26:08.126078
+210,687,Saudável,Saudável,82,Estância Ouro Branco,326,2026-04-15 22:26:08.455974
+211,465,Oídio,Oídio,99,Estância Ouro Branco,337,2026-04-15 22:26:08.796547
+212,253,Ferrugem,Ferrugem,90,Agropecuária Vale Verde,328,2026-04-15 22:26:09.128462
+213,803,Saudável,Saudável,99,Sítio Bela Vista,306,2026-04-15 22:26:09.438031
+214,493,Oídio,Oídio,88,Fazenda Sol Nascente,340,2026-04-15 22:26:09.781606
+215,136,Saudável,Saudável,96,Estância Ouro Branco,315,2026-04-15 22:26:10.101232
+216,432,Saudável,Saudável,99,Estância Ouro Branco,312,2026-04-15 22:26:10.416320
+217,575,Saudável,Saudável,76,Rancho Águas Claras,343,2026-04-15 22:26:10.763150
+218,539,Saudável,Saudável,97,Agropecuária Vale Verde,347,2026-04-15 22:26:11.113403
+219,345,Ferrugem,Ferrugem,98,Sítio Bela Vista,341,2026-04-15 22:26:11.461483
+220,758,Saudável,Saudável,99,Agropecuária Vale Verde,365,2026-04-15 22:26:11.830607
+221,308,Saudável,Saudável,99,Rancho Águas Claras,385,2026-04-15 22:26:12.225998
+222,58,Saudável,Saudável,97,Sítio Bela Vista,415,2026-04-15 22:26:12.644489
+223,877,Saudável,Saudável,61,Rancho Águas Claras,349,2026-04-15 22:26:12.997610
+224,787,Saudável,Saudável,99,Agropecuária Vale Verde,361,2026-04-15 22:26:13.362164
+225,411,Saudável,Saudável,99,Agropecuária Vale Verde,380,2026-04-15 22:26:13.746537
+226,5,Saudável,Saudável,93,Sítio Bela Vista,354,2026-04-15 22:26:14.104681
+227,844,Saudável,Saudável,98,Agropecuária Vale Verde,443,2026-04-15 22:26:14.558100
+228,89,Saudável,Saudável,82,Sítio Bela Vista,386,2026-04-15 22:26:14.948143
+229,410,Saudável,Saudável,83,Fazenda Sol Nascente,351,2026-04-15 22:26:15.301964
+230,77,Saudável,Saudável,98,Rancho Águas Claras,340,2026-04-15 22:26:15.646202
+231,538,Saudável,Saudável,65,Agropecuária Vale Verde,470,2026-04-15 22:26:16.121798
+232,608,Saudável,Saudável,97,Fazenda Sol Nascente,323,2026-04-15 22:26:16.448374
+233,528,Saudável,Saudável,96,Rancho Águas Claras,312,2026-04-15 22:26:16.763642
+234,181,Saudável,Saudável,99,Estância Ouro Branco,319,2026-04-15 22:26:17.085236
+235,444,Saudável,Saudável,95,Fazenda Sol Nascente,312,2026-04-15 22:26:17.400258
+236,856,Saudável,Saudável,80,Rancho Águas Claras,317,2026-04-15 22:26:17.723591
+237,860,Saudável,Saudável,99,Fazenda Sol Nascente,322,2026-04-15 22:26:18.049864
+238,973,Saudável,Saudável,99,Fazenda Sol Nascente,377,2026-04-15 22:26:18.429854

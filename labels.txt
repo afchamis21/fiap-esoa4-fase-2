@@ -1,0 +1,2 @@
+0 Saudavel
+1 Doente
