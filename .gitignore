@@ -1,4 +1,5 @@
 venv/
 __pycache__/
 postgres_data/
+output/
 data/database.db
