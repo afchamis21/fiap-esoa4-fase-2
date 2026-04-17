@@ -14,6 +14,7 @@ CREATE TABLE model_results (
     predicted_category TEXT NOT NULL,
     confidence_score REAL NOT NULL, -- Valor entre 0 e 1
     location_name TEXT NOT NULL,
+    image_name TEXT NOT NULL,
     inference_time_ms REAL,
     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );

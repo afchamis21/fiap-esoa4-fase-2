@@ -20,6 +20,7 @@ class CvResult:
     confidence_score: int
     location_name: str
     inference_time_ms: int
+    image_name: str
     created_at: datetime
 
 
@@ -114,7 +115,8 @@ def do_cv(filepath: str) -> CvResult:
         confidence_score=confidence_score,
         location_name=get_location(),                  
         inference_time_ms=inference_time_ms,
-        created_at=datetime.now()               
+        created_at=datetime.now()     ,
+        image_name=basename          
     )
 
 
